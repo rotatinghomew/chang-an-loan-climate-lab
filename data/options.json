@@ -1,0 +1,34 @@
+[
+  {
+    "id": "F1",
+    "loan": "NEW1",
+    "leg": "NEW1-2",
+    "stop": "M3",
+    "hours": 38,
+    "hold": null
+  },
+  {
+    "id": "F2",
+    "loan": "NEW1",
+    "leg": "NEW1-2",
+    "stop": "M2",
+    "hours": 12,
+    "hold": "Z1"
+  },
+  {
+    "id": "F3",
+    "loan": "NEW2",
+    "leg": "NEW2-1",
+    "stop": "M2",
+    "hours": 22,
+    "hold": "Z1"
+  },
+  {
+    "id": "F4",
+    "loan": "NEW2",
+    "leg": "NEW2-1",
+    "stop": "M2",
+    "hours": 42,
+    "hold": "Z3"
+  }
+]

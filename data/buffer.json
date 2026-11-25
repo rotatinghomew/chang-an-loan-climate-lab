@@ -1,0 +1,23 @@
+[
+  {
+    "id": "Z1",
+    "museum": "M2",
+    "day": "2027-04-06",
+    "capacity": 1,
+    "installed": "K1"
+  },
+  {
+    "id": "Z2",
+    "museum": "M3",
+    "day": "2027-04-06",
+    "capacity": 0,
+    "installed": "K2"
+  },
+  {
+    "id": "Z3",
+    "museum": "M2",
+    "day": "2027-04-07",
+    "capacity": 2,
+    "installed": "K1"
+  }
+]

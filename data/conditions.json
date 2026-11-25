@@ -1,0 +1,24 @@
+[
+  {
+    "id": "K1",
+    "materials": [
+      "纸本",
+      "漆器",
+      "绢本"
+    ],
+    "rh_low": 38,
+    "rh_high": 61,
+    "temp_max": 26
+  },
+  {
+    "id": "K2",
+    "materials": [
+      "纸本",
+      "漆器",
+      "绢本"
+    ],
+    "rh_low": 43,
+    "rh_high": 59,
+    "temp_max": 27
+  }
+]

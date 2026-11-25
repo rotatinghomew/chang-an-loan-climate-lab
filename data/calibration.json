@@ -1,0 +1,23 @@
+[
+  {
+    "id": "C1",
+    "device": "E1",
+    "offset": 0,
+    "from_day": "2026-01-01",
+    "received": "2026-01-01"
+  },
+  {
+    "id": "C2",
+    "device": "E2",
+    "offset": 0,
+    "from_day": "2026-01-01",
+    "received": "2026-01-01"
+  },
+  {
+    "id": "C3",
+    "device": "E2",
+    "offset": 5,
+    "from_day": "2027-04-05",
+    "received": "2027-04-06"
+  }
+]
